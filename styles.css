@@ -1,7 +1,7 @@
 .back-logo{
     padding-left: 10px;
     padding-top: 10px;
-    width: 70px;
+    width: 180px;
     height:auto;
 }
 
@@ -34,7 +34,7 @@ img{
 
 .form-container{
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
+    font-size: 27px;
     display: flex;
     flex-direction: column;
     padding-inline: 20%;
@@ -65,12 +65,12 @@ button{
     margin-top: 20px;
     padding: 5px;
     padding-inline: 20px;
-    font-size: 10px;
+    font-size: 14px;
     border: none;
     border-radius: 3px;
     color: white;
     background-color: #099dfd;
-    width: 70px;
+    width: 100px;
 }
 
 button:hover{
@@ -107,6 +107,7 @@ button:hover{
     text-align: center;
     color: white;
     font-family: 'Poppins', sans-serif;
+    font-size: 24px;
     position:absolute;
     bottom:0;
     margin: 4%;
